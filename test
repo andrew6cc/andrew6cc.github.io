@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<head>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	</head>
+  <link href="/normalize.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Cabin" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Nova+Flat" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Scada" rel="stylesheet">
+  <style>
+    header {
+      text-align: center;
+      background: url('https://www.destructoid.com//ul/380651-PS4Header.jpg');
+      background-size: cover;
+      color: white;
+      
+    }
+    a {
+      color: white;
+    }
+    h1 {
+      font-size: 60px;
+      font-family: Oswald;
+      color: lightblue;
+    }
+    img {
+      margin: 40px 0px 0px 0px;
+      border: 7px solid white;
+      border-radius: 20px;
+      float:right
+    }
+    ul {
+      padding: 10px;
+      background: rgba(0,0,0,0.5);
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+      font-family: Century Gothic;
+    }
+    article {
+      max-width: 500px;
+      padding: 20px;
+      margin: 0 auto;
+      font-family: Nova Flat;
+      color: white;
+      font-size: 20px;
+    }
+    h2{
+      font-size: 30px;
+      font-family: Cabin;
+    }
+    body{
+      background: #0E274B;
+    }
+    input{
+      font-size: 20px;
+    }
+    input[type="submit"] {
+      background: skyblue;
+      color: black;
+      font-size: 20px;
+    }
+    h3 {
+      color: #00FFFF;
+      font-family: Quicksand;
+      font-size: 25px;
+    }
+    button[class=Like] {
+      background: lightgreen;
+      font-family: Scada;
+      font-size: 18px;
+    }
+    button[class=Dislike] {
+      background: crimson;
+      font-family: Scada;
+      font-size: 18px;
+      
+    
+    @media (max-width: 500px) {
+      h1 {
+        font-size: 36px;
+        padding: 5px;
+      }
+      li {
+        padding: 5px;
+        display: block;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Andrew's Favorite Games for PS4 in 2017</h1>
+    <ul>
+      <li><a href="https://www.gamestop.com/ps4/games/assassins-creed-origins/149554"target="_blank">Assassin's Creed: Origins</a></li>
+      <li><a href="https://www.gamestop.com/ps4/games/overwatch-origins-edition/126703"target="_blank">Overwatch</a></li>
+      <li><a href="https://www.gamestop.com/ps4/games/assassins-creed-iv-black-flag/109958"target="_blank">Assassin's Creed IV: Black Flag</a></li>
+      <li><a href="https://www.gamestop.com/ps4/games/assassins-creed-syndicate/121792"target="_blank">Assassin's Creed: Syndicate</a></li>
+    </ul>
+  </header>
+  <article>
+    <h2>Assassin's Creed: Origins</h2>
+    <img src="https://www.gamestop.com/common/images/lbox/150069b.jpg"
+    <p> Assassin's Creed Origins is an action-adventure video game developed by Ubisoft Montreal and published by Ubisoft. It is the tenth major installment in the Assassin's Creed series and the successor to 2015's Assassin's Creed Syndicate. It was released worldwide for Microsoft Windows, PlayStation 4, and Xbox One on October 27, 2017.
+The game is set in Egypt during the near end of the Ptolemaic period (49-47 BC) and recounts the secret fictional history of real-world events. The story explores the origins of the centuries-long conflict between the Brotherhood of Assassins, who fight for peace by promoting liberty, and The Order of the Ancients—forerunners to the Templar Order—who desire peace through the forced imposition of order.</p>
+    <button class="Like">Like</button> <button class="Dislike">Dislike</button>
+  </article>
+  <article>
+    <h2>Overwatch</h2>
+    <img src="https://www.gamestop.com/common/images/lbox/119732b.jpg">
+    <p>Overwatch is a team-based multiplayer online first-person shooter video game developed and published by Blizzard Entertainment. It was released in May 2016 for Windows, PlayStation 4, and Xbox One. Overwatch assigns players into two teams of six, with each player selecting from a roster of over 20 characters, known in-game as "heroes", each with a unique style of play, whose roles are divided into four general categories: Offense, Defense, Tank, and Support. Players on a team work together to secure and defend control points on a map or escort a payload across the map in a limited amount of time. The game was initially launched with casual play, with a competitive ranked mode, various 'arcade' game modes, and a player-customizable server browser subsequently included following its release.</p>
+    <button class="Like">Like</button> <button class="Dislike">Dislike</button>
+  </article>
+  <article>
+    <h2>Assassin's Creed IV: Black Flag</h2>
+    <img src="https://www.gamestop.com/common/images/lbox/150011b.jpg">
+    <p>Assassin's Creed IV: Black Flag is an action-adventure video game developed by Ubisoft Montreal and published by Ubisoft. It is the sixth major installment in the Assassin's Creed series. Its historical time frame precedes that of Assassin's Creed III (2012), though its modern-day sequences succeed III's own. Black Flag was first released for PlayStation 3, Xbox 360, and Nintendo Wii U in October 2013 and a month later for PlayStation 4, Xbox One, and Microsoft Windows.
+The plot is set in a fictional history of real world events and follows the centuries-old struggle between the Assassins, who fight for peace with free will, and the Templars, who desire peace through control. The framing story is set in the 21st century and describes the player as an Abstergo agent. The main story is set in the 18th century Caribbean during the Golden Age of Piracy, and follows notorious Welsh pirate Edward Kenway, grandfather and father of Assassin's Creed III protagonist and antagonist Ratonhnhaké:ton and Haytham Kenway respectively, who stumbles upon the Assassin/Templar conflict. The attempted establishment of a Republic of Pirates utopia (free from either British or Spanish rule) is a significant plot element.</p>
+    <button class="Like">Like</button> <button class="Dislike">Dislike</button>
+  </article>
+  <article>
+    <h2>Assassin's Creed: Syndicate</h2>
+    <img src="https://www.gamestop.com/common/images/lbox/112610b1.jpg">
+    <p> Assassin's Creed Syndicate is an action-adventure video game developed by Ubisoft Quebec and published by Ubisoft. It was released on October 23, 2015, for PlayStation 4 and Xbox One, and on November 19, 2015, for Microsoft Windows. It is the ninth major installment in the Assassin's Creed series, and the successor to 2014's Assassin's Creed Unity.
+
+The plot is set in a fictional history of real-world events and follows the centuries-old struggle between the Assassins, who fight for peace with liberty, and the Templars, who desire peace through order. The story is set in Victorian era London and follows twin assassins Jacob and Evie Frye as they navigate the corridors of organized crime, and take back the city from Templar control.</p>
+    <button class="Like">Like</button> <button class="Dislike">Dislike</button>
+    <h3>
+    <p>Want to get daily development updates from Ubisoft and Blizzard? Leave your email down here and we'll send you some messages!</p> </h3>
+    <input type="email" placeholder="Email Address" id="weird">
+  <input type="submit"onClick="alert(weird.value)">
+  
+  <script>
+    $(".Like").on("click", function() {
+      alert("Liked!");
+    });
+    $(".Dislike").on("click", function() {
+      alert("Disliked!");
+    });
+  </script>
+</body>
+
